@@ -1,6 +1,6 @@
 # Car License Plate Detection
 
-#### Install requirements using
+#### Install requirements for respective algorithms
 pip install -r ./requirements.txt
 
 #### Install pre-trained weights of YOLOv3 and YOLOv4
