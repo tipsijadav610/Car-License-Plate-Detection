@@ -1,7 +1,7 @@
 # Car License Plate Detection
 
 #### Install requirements for respective algorithms
-pip install -r ./requirements.txt
+pip install -r `path to requirements.txt file` 
 
 #### Install pre-trained weights of YOLOv3 and YOLOv4
 - yolov3 `wget -P model_data https://pjreddie.com/media/files/yolov3.weights`
